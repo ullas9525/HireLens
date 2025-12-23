@@ -1,0 +1,1 @@
+We are seeking a skilled Data Analyst with strong proficiency in Python, SQL, and data visualization tools like Power BI or Tableau. The ideal candidate will have experience in web scraping, Exploratory Data Analysis (EDA), and building dashboards to derive actionable insights.
